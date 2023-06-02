@@ -39,7 +39,7 @@ __Chat Logs Notebook__:
 
 Here is the short version in how you can jump straight away into the project!
 
-1. clone the repository just so you can have your own version of the respective notebooks
+1. Clone the repository just so you can have your own version of the respective notebooks
 2. Have an available google gmail account to access the cloud hosted google collab environment -__https://support.google.com/accounts/answer/27441?hl=en__
 3. Learn and have fun!
 
